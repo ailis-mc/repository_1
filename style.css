@@ -2,6 +2,16 @@ body {
     background-color: pink;
 }
 
+
 h2 {
     color:brown;
+}
+
+li {
+    background-color: brown;
+}
+
+footer {
+    background-color: lightblue;
+
 }
