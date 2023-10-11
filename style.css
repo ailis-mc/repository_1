@@ -3,5 +3,9 @@ body {
 }
 
 li {
-    background-color: black;
+    background-color: brown;
+}
+
+footer {
+    background-color: lightblue;
 }
